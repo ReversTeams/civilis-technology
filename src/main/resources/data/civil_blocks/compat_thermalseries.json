@@ -1,0 +1,40 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Thermal Series.",
+    "Block IDs verified against Thermal Series namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+ 
+
+    { "block": "thermal_processing:alloy_blender",                       "weight": 0.5 },
+    { "block": "thermal:machine_furnace",                       "weight": 0.5 },
+    { "block": "thermal:machine_sawmill",                       "weight": 0.5 },
+    { "block": "thermal:machine_pulverizer",                       "weight": 0.5 },
+    { "block": "thermal:machine_smelter",                       "weight": 0.5 },
+    { "block": "thermal:machine_insolator",                       "weight": 0.5 },
+    { "block": "thermal:machine_centrifuge",                       "weight": 0.5 },
+    { "block": "thermal:machine_press",                       "weight": 0.5 },
+    { "block": "thermal:machine_crucible",                       "weight": 0.5 },
+    { "block": "thermal:machine_chiller",                       "weight": 0.5 },
+    { "block": "thermal:machine_refinery",                       "weight": 0.5 },
+    { "block": "thermal:machine_pyrolyzer",                       "weight": 0.5 },
+    { "block": "thermal:machine_bottler",                       "weight": 0.5 },
+    { "block": "thermal:machine_brewer",                       "weight": 0.5 },
+    { "block": "thermal:machine_crystallizer",                       "weight": 0.5 },
+    { "block": "thermal:machine_crafter",                       "weight": 0.5 },
+
+    { "block": "thermal:dynamo_stirling",                       "weight": 0.3 },
+    { "block": "thermal:dynamo_compression",                       "weight": 0.3 },
+    { "block": "thermal:dynamo_magmatic",                       "weight": 0.3 },
+    { "block": "thermal:dynamo_numismatic",                       "weight": 0.3 },
+    { "block": "thermal:dynamo_lapidary",                       "weight": 0.3 },
+    { "block": "thermal:dynamo_disenchantment",                       "weight": 0.3 },
+    { "block": "thermal:dynamo_gourmand",                       "weight": 0.3 },
+
+    { "block": "thermal:energy_cell",                       "weight": 0.1 },
+    { "block": "thermal:fluid_cell",                       "weight": 0.1 }
+
+  ]
+}

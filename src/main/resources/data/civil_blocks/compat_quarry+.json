@@ -1,0 +1,23 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Quarry+.",
+    "Block IDs verified against Quarry+ namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "quarryplus:workbench",                       "weight": 0.4 },
+    { "block": "quarryplus:mover",                       "weight": 0.4 },
+    { "block": "quarryplus:book_mover",                       "weight": 0.4 },
+
+    { "block": "quarryplus:adv_quarry",                       "weight": 0.2 },
+
+    { "block": "quarryplus:quarry",                   "weight": 0.1 },
+    { "block": "quarryplus:mining_well",                   "weight": 0.1 },
+    { "block": "quarryplus:replacer",                   "weight": 0.1 },
+    { "block": "quarryplus:mini_quarry",                   "weight": 0.1 },
+    { "block": "quarryplus:filler",                   "weight": 0.1 },
+    { "block": "quarryplus:placer_plus",                   "weight": 0.1 },
+    { "block": "quarryplus:remote_placer",                   "weight": 0.1 }
+  ]
+}

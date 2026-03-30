@@ -1,0 +1,30 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Tinker's Construct.",
+    "Block IDs verified against Tinker's Construct namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "tconstruct:smeltery_controller",                       "weight": 1.0 },
+    { "block": "tconstruct:foundry_controller",                       "weight": 1.0 },
+
+    { "block": "tconstruct:seared_melter",                       "weight": 0.5 },
+    { "block": "tconstruct:scorched_alloyer",                       "weight": 0.5 },
+
+    { "block": "tconstruct:tinkers_anvil",                       "weight": 0.4 },
+    { "block": "tconstruct:scorched_anvil",                       "weight": 0.4 },
+
+    { "block": "craftingstation:crafting_station_slab",                       "weight": 0.3 },
+    { "block": "craftingstation:crafting_station",                       "weight": 0.3 },
+    { "block": "tconstruct:modifier_worktable",                       "weight": 0.3 },
+    { "block": "tconstruct:tinkers_chest",                       "weight": 0.3 },
+    { "block": "tconstruct:part_chest",                       "weight": 0.3 },
+    { "block": "tconstruct:cast_chest",                       "weight": 0.3 },
+    { "block": "tconstruct:part_builder",                       "weight": 0.3 },
+    { "block": "tconstruct:tinker_station",                       "weight": 0.3 },
+
+    { "block": "tconstruct:seared_ingot_tank",                   "weight": 0.1 },
+    { "block": "tconstruct:scorched_ingot_tank",               "weight": 0.1 }
+  ]
+}

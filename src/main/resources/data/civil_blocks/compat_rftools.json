@@ -1,0 +1,28 @@
+{
+  "_comment": [
+    "Civil mod compatibility: RFTools.",
+    "Block IDs verified against RFTools entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    
+    { "block": "rftoolsbase:machine_infuser",                       "weight": 0.4 },
+    { "block": "rftoolspower:blazing_generator",                       "weight": 0.4 },
+    { "block": "rftoolspower:blazing_agitator",                       "weight": 0.4 },
+    { "block": "rftoolspower:blazing_infuser",                       "weight": 0.4 },
+    { "block": "rftoolspower:pearl_injector",                       "weight": 0.4 },
+    { "block": "rftoolspower:coalgenerator",                       "weight": 0.4 },
+    { "block": "rftoolsdim:enscriber",                       "weight": 0.4 },
+    { "block": "rftoolsdim:dimlet_workbench",                       "weight": 0.4 },
+    { "block": "rftoolsdim:knowledge_holder",                       "weight": 0.4 },
+    { "block": "rftoolsdim:researcher",                       "weight": 0.4 },
+    { "block": "rftoolsstorage:modular_storage",                       "weight": 0.4 },
+    { "block": "rftoolsstorage:storage_scanner",                       "weight": 0.4 },
+    { "block": "rftoolsutility:crafter1",                       "weight": 0.4 },
+    { "block": "rftoolsutility:crafter2",                       "weight": 0.4 },
+    { "block": "rftoolsutility:crafter3",                       "weight": 0.4 }
+
+
+  ]
+}
