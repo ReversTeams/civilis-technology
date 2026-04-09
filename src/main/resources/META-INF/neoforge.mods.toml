@@ -1,5 +1,5 @@
 modLoader = "lowcodefml"
-loaderVersion = "${neoforge_version_range}"
+loaderVersion = "[4,)"
 #issueTrackerURL = ""
 license = "${mod_license}"
 
