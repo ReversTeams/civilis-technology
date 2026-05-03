@@ -28,13 +28,13 @@ jobs:
         uses: tristankechlo/publish-mc-mod@v2.0.0
         with:
           mc-version: "1.21.1"
-          mod-version: "1.0.0"
+          mod-version: "1.0.1"
           curseforge-id: 1499755
           modrinth-id: "TZBlTKuM"
           version-range: "[1.21.1,1.21.2)"
           version-type: "release"
           loaders: "neoforge"
-          changelog: "- Ported to 1.21.1"
+          changelog: "- Added compatibility with Immersive Engineering"
 
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}

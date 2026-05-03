@@ -1,0 +1,41 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Immersive Engineering.",
+    "Block IDs verified against Immersive Engineering namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "immersiveengineering:fermenter",                       "weight": 2 },
+    { "block": "immersiveengineering:silo",                       "weight": 2 },
+    { "block": "immersiveengineering:metal_press",                       "weight": 2 },
+    { "block": "immersiveengineering:diesel_generator",                       "weight": 2 },
+    { "block": "immersiveengineering:auto_workbench",                       "weight": 2 },
+    { "block": "immersiveengineering:bottling_machine",                       "weight": 2 },
+    { "block": "immersiveengineering:assembler",                       "weight": 2 },
+    { "block": "immersiveengineering:tank",                       "weight": 2 },
+    { "block": "immersiveengineering:mixer",                       "weight": 2 },
+    { "block": "immersiveengineering:refinery",                       "weight": 2 },
+    { "block": "immersiveengineering:bucket_wheel",                       "weight": 2 },
+    { "block": "immersiveengineering:squeezer",                       "weight": 2 },
+    { "block": "immersiveengineering:sawmill",                       "weight": 2 },
+    { "block": "immersiveengineering:excavator",                       "weight": 2 },
+    { "block": "immersiveengineering:lightning_rod",                       "weight": 2 },
+    { "block": "immersiveengineering:crusher",                       "weight": 2 },
+    { "block": "immersiveengineering:arc_furnace",                       "weight": 2 },
+
+    { "block": "immersiveengineering:blast_furnace",                       "weight": 1.5 },
+    { "block": "immersiveengineering:coke_oven",                       "weight": 1.5 },
+
+    { "block": "immersiveengineering:workbench",                       "weight": 0.8 },
+    { "block": "immersiveengineering:circuit_table",                       "weight": 0.8 },
+
+    { "block": "immersiveengineering:charging_station",                       "weight": 0.6 },
+    { "block": "immersiveengineering:cloche",                       "weight": 0.6 },
+
+    { "block": "immersiveengineering:thermoelectric_generator",                       "weight": 0.3 },
+
+    { "block": "immersiveengineering:watermill",                       "weight": 0.2 },
+    { "block": "immersiveengineering:windmill",                       "weight": 0.2 }
+  ]
+}
