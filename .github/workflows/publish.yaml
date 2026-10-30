@@ -28,13 +28,14 @@ jobs:
         uses: tristankechlo/publish-mc-mod@v2.0.0
         with:
           mc-version: "1.21.1"
-          mod-version: "1.0.2"
+          mod-version: "1.0.3"
           curseforge-id: 1499755
           modrinth-id: "TZBlTKuM"
           version-range: "[1.21.1,1.21.2)"
           version-type: "release"
           loaders: "neoforge"
-          changelog: "- Standardized loading"
+          changelog: |
+           - Added support for Draconic Evolution, Forestry, Replication and Steam Powered.
 
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}

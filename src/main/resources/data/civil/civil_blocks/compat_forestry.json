@@ -1,0 +1,31 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Immersive Engineering.",
+    "Block IDs verified against Immersive Engineering namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "forestry:worktable",                       "weight": 2 },
+    { "block": "forestry:engine_peat",                       "weight": 2 },
+    { "block": "forestry:engine_biogas",                       "weight": 2 },
+    { "block": "forestry:engine_clockwork",                       "weight": 2 },
+    { "block": "forestry:engine_combustion",                       "weight": 2 },
+    { "block": "forestry:engine_solar",                       "weight": 2 },
+    { "block": "forestry:fabricator",                       "weight": 2 },
+    { "block": "forestry:bottler",                       "weight": 2 },
+    { "block": "forestry:carpenter",                       "weight": 2 },
+    { "block": "forestry:centrifuge",                       "weight": 2 },
+    { "block": "forestry:fermenter",                       "weight": 2 },
+    { "block": "forestry:moistener",                       "weight": 2 },
+    { "block": "forestry:smelter",                       "weight": 2 },
+    { "block": "forestry:squeezer",                       "weight": 2 },
+    { "block": "forestry:still",                       "weight": 2 },
+    { "block": "forestry:rainmaker",                       "weight": 2 },
+
+    { "block": "forestry:mailbox",                       "weight": 0.8 },
+    { "block": "forestry:trade_station",                       "weight": 0.8 },
+    { "block": "forestry:stamp_collector",                       "weight": 0.8 },
+    { "block": "forestry:solar_panel",                       "weight": 0.8 }
+  ]
+}

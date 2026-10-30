@@ -1,0 +1,15 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Steam Powered.",
+    "Block IDs verified against Steam Powered namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "replication:replicator",                       "weight": 0.4 },
+    { "block": "replication:identification_chamber",                       "weight": 0.4 },
+    { "block": "replication:disintegrator",                       "weight": 0.4 },
+    { "block": "replication:matter_tank",                       "weight": 0.4 },
+    { "block": "replication:chip_storage",                       "weight": 0.4 }
+  ]
+}

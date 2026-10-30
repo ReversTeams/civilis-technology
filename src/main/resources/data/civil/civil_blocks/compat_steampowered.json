@@ -1,0 +1,15 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Steam Powered.",
+    "Block IDs verified against Steam Powered namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "steam_powered:water_pump",                       "weight": 0.4 },
+    { "block": "steam_powered:item_depot",                       "weight": 0.4 },
+    { "block": "steam_powered:bot_constructor",                       "weight": 0.4 },
+    { "block": "steam_powered:vehicle_constructor",                       "weight": 0.4 },
+    { "block": "steam_powered:oxygen_compressor",                       "weight": 0.4 }
+  ]
+}

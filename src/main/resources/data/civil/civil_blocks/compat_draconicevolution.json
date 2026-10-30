@@ -1,0 +1,21 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Immersive Engineering.",
+    "Block IDs verified against Immersive Engineering namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "draconicevolution:reactor_core",                       "weight": 5 },
+    { "block": "draconicevolution:energy_core",                       "weight": 5 },
+
+    { "block": "draconicevolution:crafting_core",                       "weight": 3 },
+
+    { "block": "draconicevolution:generator",                       "weight": 1 },
+
+    { "block": "draconicevolution:disenchanter",                       "weight": 0.8 },
+    
+    { "block": "draconicevolution:fluid_gate",                       "weight": 0.4 },
+    { "block": "draconicevolution:flux_gate",                       "weight": 0.4 }
+  ]
+}
